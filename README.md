@@ -1,7 +1,7 @@
 /r/allthingsmech CSS
 ====================
 
-The stylesheet and images on [/r/AllThingsMech]()
+The stylesheet and images on [/r/AllThingsMech](http://www.reddit.com/r/allthingsmech/)
 
 ##Installation
 
